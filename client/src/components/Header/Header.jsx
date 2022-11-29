@@ -70,7 +70,7 @@ const Header = () => {
                       fill="#fff"
                     />
                   </svg>
-                  <span>Aaryan</span>
+                  <span>Vroom</span>
                 </Link>
               </h1>
             </div>

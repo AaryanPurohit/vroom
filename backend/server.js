@@ -31,7 +31,7 @@ app.get("/api/news", async (req, res, next) => {
             "https://newsapi.org/v2/everything?q='ev'&sortBy=publishedAt&language=en&excludeDomains=prnewswire.com";
         const config = {
             headers: {
-                "X-Api-Key": "",
+                "X-Api-Key": "7ce7c0dd83ad498db44a1664fff722ef",
             },
         };
         // 7ce7c0dd83ad498db44a1664fff722ef
